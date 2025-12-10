@@ -1,0 +1,44 @@
+[
+  {
+    "id": "a25293de-1b9d-4097-bbe4-2c36d9c3efac",
+    "name": "Pasta Carbonara",
+    "ingredients": "Pasta, Eggs, Bacon, Parmesan Cheese, Black Pepper",
+    "instructions": "1. Cook pasta. 2. Fry bacon. 3. Mix eggs and cheese. 4. Combine all ingredients.",
+    "cookingTime": 20
+  },
+  {
+    "id": "fcf4774b-d4d4-4524-a71d-bc4b032eccd0",
+    "name": "Chicken Tikka Masala",
+    "ingredients": "Chicken, Yogurt, Tomato, Cream, Garam Masala, Ginger, Garlic",
+    "instructions": "1. Marinate chicken in yogurt and spices. 2. Grill chicken. 3. Prepare sauce with tomatoes and cream. 4. Combine chicken with sauce.",
+    "cookingTime": 45
+  },
+  {
+    "id": "7e9008a7-b811-41fa-9a76-0a78d80004f2",
+    "name": "Vegetable Stir Fry",
+    "ingredients": "Mixed Vegetables, Soy Sauce, Ginger, Garlic, Sesame Oil, Rice",
+    "instructions": "1. Prepare vegetables. 2. Heat oil in wok. 3. Add garlic and ginger. 4. Add vegetables and stir fry. 5. Add soy sauce. 6. Serve with rice.",
+    "cookingTime": 25
+  },
+  {
+    "id": "53ce25e0-76e6-40b7-9ba6-cbc196d1bbce",
+    "name": "Beef Tacos",
+    "ingredients": "Ground Beef, Taco Shells, Lettuce, Tomatoes, Cheese, Sour Cream, Taco Seasoning",
+    "instructions": "1. Brown ground beef with seasoning. 2. Warm taco shells. 3. Fill shells with beef. 4. Add toppings.",
+    "cookingTime": 20
+  },
+  {
+    "id": "5033ee6e-c669-4c7d-b1c7-a9afa258bcf0",
+    "name": "Chocolate Chip Cookies",
+    "ingredients": "Flour, Butter, Sugar, Brown Sugar, Eggs, Vanilla Extract, Baking Soda, Salt, Chocolate Chips",
+    "instructions": "1. Preheat oven to 375F. 2. Mix butter and sugars. 3. Add eggs and vanilla. 4. Combine dry ingredients. 5. Mix wet and dry ingredients. 6. Add chocolate chips. 7. Bake for 9-11 minutes.",
+    "cookingTime": 30
+  },
+  {
+    "id": "3a652219-b8b3-443a-9e54-25c11fa8d881",
+    "name": "Caesar Salad",
+    "ingredients": "Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Chicken Breast",
+    "instructions": "1. Wash and chop lettuce. 2. Grill chicken breast. 3. Slice chicken. 4. Toss lettuce with dressing. 5. Top with chicken, croutons, and parmesan.",
+    "cookingTime": 15
+  }
+]

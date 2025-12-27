@@ -32,3 +32,43 @@ A full-stack CRUD application for managing recipes with MongoDB, Express.js, and
 
 ## Running the Application
 
+1. Start the server:
+   ```
+   npm start
+   ```
+   or for development with auto-restart:
+   ```
+   npm run dev
+   ```
+
+2. Open your browser and navigate to `http://localhost:3000`
+
+## Project Structure
+
+```
+├── index.html          # Main HTML file
+├── styles.css          # Styling for the application
+├── app.js              # Frontend JavaScript logic
+├── server.js           # Backend server with Express and MongoDB
+├── package.json        # Project dependencies and scripts
+└── README.md           # This file
+```
+
+## API Endpoints
+
+- `GET /api/recipes` - Get all recipes
+- `GET /api/recipes/:id` - Get a specific recipe
+- `POST /api/recipes` - Create a new recipe
+- `PUT /api/recipes/:id` - Update a recipe
+- `DELETE /api/recipes/:id` - Delete a recipe
+
+## Technologies Used
+
+- **Frontend**: HTML, CSS, JavaScript (Vanilla)
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB with Mongoose ODM
+- **Other**: CORS for cross-origin requests
+
+## License
+
+This project is open source and available under the MIT License.

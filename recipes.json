@@ -9,7 +9,7 @@
   {
     "id": "fcf4774b-d4d4-4524-a71d-bc4b032eccd0",
     "name": "Chicken Tikka Masala",
-    "ingredients": "Chicken, Yogurt, Tomato, Cream, Garam Masala, Ginger, Garlic",
+    "ingredients": "Chicken, Yogurt, Tomato, Cream, Garam Masala, Ginger, Garlic", 
     "instructions": "1. Marinate chicken in yogurt and spices. 2. Grill chicken. 3. Prepare sauce with tomatoes and cream. 4. Combine chicken with sauce.",
     "cookingTime": 45
   },

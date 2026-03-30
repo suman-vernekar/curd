@@ -4,7 +4,7 @@ A full-stack CRUD application for managing recipes with MongoDB, Express.js, and
 
 ## Features
 
-- Create, Read, and Delete recipes
+- Create, Read, update and Delete recipes
 - Search functionality
 - Responsive design
 - MongoDB integration for persistent storage

@@ -1,6 +1,6 @@
 # Recipe Management System
 
-A full-stack CRUD application for managing recipes with MongoDB, Express.js, and vanilla JavaScript.
+A full-stack CRUD application for managing recipes with MongoDB, Express.js, and vanilla JavaScrip
 
 ## Features
 

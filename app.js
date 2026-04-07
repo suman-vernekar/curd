@@ -4,7 +4,7 @@ const API_BASE_URL = '/api/recipes';
 let editingRecipeId = null;
 
 // DOM Elements
-const recipeForm = document.getElementById('recipeForm');
+const recipeForm = document.getElementById('recipeForm'
 const recipeList = document.getElementById('recipeList');
 const searchInput = document.getElementById('searchInput');
 

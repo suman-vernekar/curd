@@ -8,7 +8,7 @@ const recipeForm = document.getElementById('recipeForm');
 const recipeList = document.getElementById('recipeList');
 const searchInput = document.getElementById('searchInput');
 
-const a =0;
+
 
 // Load recipes when page loads
 document.addEventListener('DOMContentLoaded', () => {
